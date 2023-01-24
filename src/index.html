@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css"
+      integrity="sha512-xh6O/CkQoPOWDdYTDqeRdPCVd1SpvCA9XXcUnZS2FmJNp1coAFzvtCN9BmamE+4aHK8yyUHUSCcJHgXloTyT2A=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+    <title>To Do List App</title>
+  </head>
+  <body>
+    <section id="section">
+      <div class="title">
+        <p>Today's To Do List</p>
+        <div id="refresh"><i class="fa-solid fa-arrows-rotate"></i></div>
+      </div>
+
+      <div class="form-text"></div>
+
+      <ul id="list"></ul>
+
+      <button class="clear" type="button">Clear all completed</button>
+    </section>
+
+    <script src="./index.js" type="module"></script>
+    <script src="./modules/toDoList.js" type="module"></script>
+    <script src="./modules/localStorage.js" type="module"></script>
+    <script src="./modules/userInterface.js" type="module"></script>
+  </body>
+</html>
