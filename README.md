@@ -76,7 +76,7 @@ A tool that helps to organize your day. It simply lists the things that you need
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://miltonhenschel.github.io/ToDoList-App/)
+- [Live Demo Link](https://miltonhenschel.github.io/ToDoListApp-Review/src/)
 <!--  - [Video presentation](https://www.loom.com/share/)-->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
