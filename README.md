@@ -20,6 +20,7 @@
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
     - [Install](#install)
+    - [Usage](#usage)
     - [Run tests ](#run-tests-)
     - [Deployment ](#deployment-)
   - [Author](#author)
@@ -76,7 +77,7 @@ A tool that helps to organize your day. It simply lists the things that you need
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://miltonhenschel.github.io/ToDoListApp-Review/src/)
+- [Live Demo Link](https://miltonhenschel.github.io/ToDoListApp-Review/dist)
 <!--  - [Video presentation](https://www.loom.com/share/)-->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -102,11 +103,11 @@ In order to run this project you need:
 - [ ] Clone this repository to your desired folder:
 
 ```
-git clone https://github.com/miltonHenschel/ToDoList-App.git
+git clone https://github.com/miltonHenschel/ToDoListApp-Review.git
 ```
 
 ```
-cd ToDoList-App
+cd ToDoListApp-Review
 ```
 
 - [ ] Open the file in your code editor
