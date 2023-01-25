@@ -2,7 +2,7 @@
   "name": "todolistapp-review",
   "version": "1.0.0",
   "description": "<a name=\"readme-top\"></a>",
-  "main": "index.js",
+  // "main": "index.js",
   "private": true,
   "dependencies": {
     "abbrev": "^1.1.1",
@@ -605,5 +605,6 @@
   "bugs": {
     "url": "https://github.com/miltonHenschel/ToDoListApp-Review/issues"
   },
-  "homepage": "https://github.com/miltonHenschel/ToDoListApp-Review#readme"
+  "homepage": "https://github.com/miltonHenschel/ToDoListApp-Review/dist",
+  "main": "webpack.config.js"
 }
