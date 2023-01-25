@@ -2,7 +2,6 @@
   "name": "todolistapp-review",
   "version": "1.0.0",
   "description": "<a name=\"readme-top\"></a>",
-  // "main": "index.js",
   "private": true,
   "dependencies": {
     "abbrev": "^1.1.1",
@@ -600,7 +599,7 @@
     "url": "git+https://github.com/miltonHenschel/ToDoListApp-Review.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Henschel Nketchogue M.",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/miltonHenschel/ToDoListApp-Review/issues"
