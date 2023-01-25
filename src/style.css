@@ -1,0 +1,82 @@
+section#section {
+  border: 1px solid #808080;
+  width: 60vw;
+  margin: 2rem auto;
+  display: flex;
+  flex-direction: column;
+}
+
+.form-text {
+  width: 100%;
+  padding-right: 0.5rem;
+}
+
+div#refresh {
+  padding-right: 0.25rem;
+}
+
+button.text-btn {
+  border: none;
+  background: none;
+}
+
+div.title,
+div.form-text,
+li.checkbox,
+button.clear {
+  border: 1px solid #80808021;
+  padding: 0.5rem 0;
+}
+
+.title {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+span.inputs {
+  display: flex;
+  width: 100%;
+}
+
+input[type='text'] {
+  border: none;
+  width: 100%;
+  padding: 0.5rem;
+}
+
+input:checked + input {
+  text-decoration: line-through;
+  color: #ccc;
+  font-style: italic;
+}
+
+.new,
+.form-text {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  justify-content: space-between;
+}
+
+.list li:nth-child(2n + 1) {
+  background-color: #eee;
+}
+
+button.clear {
+  background-color: #808080;
+}
+
+img {
+  width: 3vw;
+}
+
+.title p {
+  padding-left: 0.5rem;
+}
+
+p.error-message {
+  color: #f00;
+  display: none;
+  border: solid;
+}
